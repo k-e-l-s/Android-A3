@@ -1,4 +1,4 @@
-# Android Assignment 7 (Assignment 7 on moodle)
+# Android Assignment 3 (Assignment 7 on moodle)
 
 ## Assignment Description
 Find an android app you enjoy using or use often. Come up with an idea for a new feature to add, implement the UI for the given feature. 
