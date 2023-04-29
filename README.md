@@ -22,7 +22,7 @@ Find an android app you enjoy using or use often. Come up with an idea for a new
        - AndroidManifest.xml (contains app permissions)
        - res (contains all 'drawables' or front-end images, fonts, colors, icons)
 
-## Video Walkthrough of the app
+## Video Walkthrough & Demonstration of the app
 [Youtube Link for a video walkthrough of the app](https://www.youtube.com/watch?v=xV_7VYfww0Q)
 
 ## How to run the program
